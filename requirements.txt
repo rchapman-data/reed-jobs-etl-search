@@ -1,0 +1,8 @@
+requests
+pymongo
+python-dotenv
+boto3
+sentence-transformers
+numpy
+faiss-cpu
+anthropic

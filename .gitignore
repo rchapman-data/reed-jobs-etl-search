@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 venv/
 .DS_Store
+data/*.json
+embed_demo.py
+Week 2 project (Cloud ETL).txt
