@@ -61,10 +61,10 @@ Run: `py -m src.search_app_v2`
 - ~267 jobs currently in MongoDB (grew from an initial ~24-30 job test run)
 - MongoDB
 
-     <img src="mongodb.png" alt="MongoDB jobs collection with nested employer/salary schema" width="600">
+    <img src="MongoDB.png" alt="MongoDB jobs collection with nested employer/salary schema" width="600">
 - AWS S3 Bucket
 
-    <img src="aws.png" alt="S3 exports bucket" width="600">
+    <img src="AWS.png" alt="S3 exports bucket" width="600">
 
 - Anthropic account:
 
